@@ -6,7 +6,7 @@
 
 == Description:
 
-Jruby-vijava is the VMware Infrastructure (vSphere) Java API packaged for use
+JRuby-vijava is the VMware Infrastructure (vSphere) Java API packaged for use
 with JRuby. This version is 2.1, synchronized to the release version of the VI
 Java API currently available on SourceForge.
 
