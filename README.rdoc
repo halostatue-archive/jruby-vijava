@@ -1,8 +1,8 @@
 = jruby-vijava
 
-* Home: http://sourceforge.net/projects/vijava/
-* Source: https://github.com/halostatue/jruby-vijava/
-* Tutorial (Java): http://vijava.sf.net/
+Home:: http://sourceforge.net/projects/vijava/
+Source:: https://github.com/halostatue/jruby-vijava/
+Tutorial (Java):: http://vijava.sf.net/
 
 == Description:
 
