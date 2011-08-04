@@ -1,0 +1,12 @@
+.autotest
+History.rdoc
+License.txt
+Manifest.txt
+README.rdoc
+Rakefile
+docs/Get started with VI Java API.pdf
+docs/Object model of VI Java API.pdf
+docs/rel-note.txt
+lib/vijava.rb
+lib/vijava/dom4j-1.6.1.jar
+lib/vijava/vijava2120100824.jar
