@@ -1,10 +1,12 @@
 # -*- ruby encoding: utf-8 -*-
+
+require 'java'
 require 'vijava/dom4j-1.6.1.jar'
 require 'vijava/vijava2120100824.jar'
 
 # A wrapper around VIJava's com.vmware.vim25.mo package.
 module VIJava
-  VERSION = '2.1.0'
+  VERSION = '2.1.0.1'
 
   include_package "com.vmware.vim25.mo"
 
